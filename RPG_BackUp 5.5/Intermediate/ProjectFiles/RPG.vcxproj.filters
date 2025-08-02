@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RPG.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RPG.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RPGEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\RealisticForestPack.png" />
+    <None Include="..\..\shadertoolsconfig.json" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RPG">
+      <UniqueIdentifier>{FC4FEEE2-19D3-387A-A68D-4ABB11C1D6C9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RPG\RPG.Build.cs">
+      <Filter>Source\RPG</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RPG\RPG.cpp">
+      <Filter>Source\RPG</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG\RPG.h">
+      <Filter>Source\RPG</Filter>
+    </ClCompile>
+    <Filter Include="Source\RPG\Private">
+      <UniqueIdentifier>{E5B64BF4-BD60-3FF8-8A88-8C36050003BC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RPG\Private\InteractableInterface.cpp">
+      <Filter>Source\RPG\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG\Private\RPGCharacter.cpp">
+      <Filter>Source\RPG\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\RPG\Private\GAS">
+      <UniqueIdentifier>{75A11830-B993-39D2-B077-C8CA3B16DF71}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RPG\Private\GAS\RPGAbilitySystemComponent.cpp">
+      <Filter>Source\RPG\Private\GAS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG\Private\GAS\RPGAttributeSet.cpp">
+      <Filter>Source\RPG\Private\GAS</Filter>
+    </ClCompile>
+    <Filter Include="Source\RPG\Private\Inventory">
+      <UniqueIdentifier>{9BF76A37-569F-3BD8-982F-8D23670DC412}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RPG\Private\Inventory\InventoryInterface.cpp">
+      <Filter>Source\RPG\Private\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG\Private\Inventory\NonSpawnableItem.cpp">
+      <Filter>Source\RPG\Private\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG\Private\Inventory\RPGInventoryComponent.cpp">
+      <Filter>Source\RPG\Private\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG\Private\Inventory\RPGItem.cpp">
+      <Filter>Source\RPG\Private\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG\Private\Inventory\RPGItemInterface.cpp">
+      <Filter>Source\RPG\Private\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG\Private\Inventory\SpawnableItem.cpp">
+      <Filter>Source\RPG\Private\Inventory</Filter>
+    </ClCompile>
+    <Filter Include="Source\RPG\Public">
+      <UniqueIdentifier>{BD42F519-A67F-3818-8972-D338AD3E54DC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RPG\Public\InteractableInterface.h">
+      <Filter>Source\RPG\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG\Public\RPGCharacter.h">
+      <Filter>Source\RPG\Public</Filter>
+    </ClCompile>
+    <Filter Include="Source\RPG\Public\GAS">
+      <UniqueIdentifier>{63A6572A-EA65-304F-BEF3-709AD3F45A5B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RPG\Public\GAS\RPGAbilitySystemComponent.h">
+      <Filter>Source\RPG\Public\GAS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG\Public\GAS\RPGAttributeSet.h">
+      <Filter>Source\RPG\Public\GAS</Filter>
+    </ClCompile>
+    <Filter Include="Source\RPG\Public\Inventory">
+      <UniqueIdentifier>{B6E56036-7102-30B0-A824-C07E3A4577A8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RPG\Public\Inventory\InventoryInterface.h">
+      <Filter>Source\RPG\Public\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG\Public\Inventory\NonSpawnableItem.h">
+      <Filter>Source\RPG\Public\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG\Public\Inventory\RPGInventoryComponent.h">
+      <Filter>Source\RPG\Public\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG\Public\Inventory\RPGItem.h">
+      <Filter>Source\RPG\Public\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG\Public\Inventory\RPGItemInterface.h">
+      <Filter>Source\RPG\Public\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG\Public\Inventory\SpawnableItem.h">
+      <Filter>Source\RPG\Public\Inventory</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
