@@ -1,3 +1,5 @@
+git add .gitattributes
+git commit -m "Add .gitattributes to treat .uasset as binary"
 *.hoge filter=lfs diff=lfs merge=lfs -text
 *.fuga filter=lfs diff=lfs merge=lfs -text
 *.piyo filter=lfs diff=lfs merge=lfs -text
