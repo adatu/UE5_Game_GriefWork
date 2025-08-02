@@ -1,0 +1,7 @@
+*.hoge filter=lfs diff=lfs merge=lfs -text
+*.fuga filter=lfs diff=lfs merge=lfs -text
+*.piyo filter=lfs diff=lfs merge=lfs -text
+*.vsidx filter=lfs diff=lfs merge=lfs -text
+*ipch filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
