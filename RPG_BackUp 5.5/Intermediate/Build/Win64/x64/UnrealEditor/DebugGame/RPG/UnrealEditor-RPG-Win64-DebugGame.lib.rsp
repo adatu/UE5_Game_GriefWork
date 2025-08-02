@@ -1,0 +1,34 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RPG-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\RPGEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\InteractableInterface.gen.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\InventoryInterface.gen.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\NonSpawnableItem.gen.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\RPG.init.gen.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\RPGAbilitySystemComponent.gen.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\RPGAttributeSet.gen.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\RPGCharacter.gen.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\RPGInventoryComponent.gen.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\RPGItem.gen.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\RPGItemInterface.gen.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\SpawnableItem.gen.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\RPG.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\InteractableInterface.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\RPGCharacter.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\RPGAbilitySystemComponent.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\RPGAttributeSet.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\InventoryInterface.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\NonSpawnableItem.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\RPGInventoryComponent.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\RPGItem.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\RPGItemInterface.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\SpawnableItem.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\PerModuleInline.gen.cpp.obj"
+"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\Default.rc2.res"
+/OUT:"D:\document\Unreal Projects\RPG_BackUp 5.5\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RPG\UnrealEditor-RPG-Win64-DebugGame.lib"
